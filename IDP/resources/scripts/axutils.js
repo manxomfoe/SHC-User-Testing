@@ -67,7 +67,7 @@
      };
 
      _axUtils.loadJS = function(url) {
-         $('head').append('<script text="text/javascript" language="JavaScript" src="' + url + '"></script>');
+         $('head').append('<script text="text/javascript" language="JavaScript" src="' + url + '"></sc'+'ript>');
      };
 
      _axUtils.curry = function(fn) {
