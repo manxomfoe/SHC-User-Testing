@@ -1,4 +1,4 @@
-﻿for(var i = 0; i < 171; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
+﻿for(var i = 0; i < 170; i++) { var scriptId = 'u' + i; window[scriptId] = document.getElementById(scriptId); }
 
 $axure.eventManager.pageLoad(
 function (e) {
@@ -317,21 +317,10 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u159'] = 'center';u170.tabIndex = 0;
+gv_vAlignTable['u159'] = 'center';gv_vAlignTable['u80'] = 'center';u81.tabIndex = 0;
 
-u170.style.cursor = 'pointer';
-$axure.eventManager.click('u170', function(e) {
-
-if (true) {
-
-	self.location.href='Dryers.html';
-
-}
-});
-gv_vAlignTable['u81'] = 'center';u82.tabIndex = 0;
-
-u82.style.cursor = 'pointer';
-$axure.eventManager.click('u82', function(e) {
+u81.style.cursor = 'pointer';
+$axure.eventManager.click('u81', function(e) {
 
 if (true) {
 
@@ -342,6 +331,17 @@ if (true) {
 	SendToBack("u73");
 
 	SetPanelState('u118', 'pd0u118','none','',500,'none','',500);
+
+}
+});
+u82.tabIndex = 0;
+
+u82.style.cursor = 'pointer';
+$axure.eventManager.click('u82', function(e) {
+
+if (true) {
+
+	SetPanelStateNext('u73',false,'none','',500,'none','',500);
 
 }
 });
@@ -352,25 +352,14 @@ $axure.eventManager.click('u83', function(e) {
 
 if (true) {
 
-	SetPanelStateNext('u73',false,'none','',500,'none','',500);
-
-}
-});
-u84.tabIndex = 0;
-
-u84.style.cursor = 'pointer';
-$axure.eventManager.click('u84', function(e) {
-
-if (true) {
-
 	SetPanelStatePrevious('u73',false,'none','',500,'none','',500);
 
 }
 });
-gv_vAlignTable['u86'] = 'center';gv_vAlignTable['u88'] = 'center';u89.tabIndex = 0;
+gv_vAlignTable['u85'] = 'center';gv_vAlignTable['u87'] = 'center';u88.tabIndex = 0;
 
-u89.style.cursor = 'pointer';
-$axure.eventManager.click('u89', function(e) {
+u88.style.cursor = 'pointer';
+$axure.eventManager.click('u88', function(e) {
 
 if (true) {
 
@@ -381,6 +370,17 @@ if (true) {
 	SendToBack("u73");
 
 	SetPanelState('u118', 'pd0u118','none','',500,'none','',500);
+
+}
+});
+u89.tabIndex = 0;
+
+u89.style.cursor = 'pointer';
+$axure.eventManager.click('u89', function(e) {
+
+if (true) {
+
+	SetPanelStateNext('u73',false,'none','',500,'none','',500);
 
 }
 });
@@ -468,22 +468,11 @@ $axure.eventManager.click('u90', function(e) {
 
 if (true) {
 
-	SetPanelStateNext('u73',false,'none','',500,'none','',500);
-
-}
-});
-u91.tabIndex = 0;
-
-u91.style.cursor = 'pointer';
-$axure.eventManager.click('u91', function(e) {
-
-if (true) {
-
 	SetPanelStatePrevious('u73',false,'none','',500,'none','',500);
 
 }
 });
-u10.tabIndex = 0;
+gv_vAlignTable['u92'] = 'center';u10.tabIndex = 0;
 
 u10.style.cursor = 'pointer';
 $axure.eventManager.click('u10', function(e) {
@@ -615,10 +604,10 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u100'] = 'center';u101.tabIndex = 0;
+u100.tabIndex = 0;
 
-u101.style.cursor = 'pointer';
-$axure.eventManager.click('u101', function(e) {
+u100.style.cursor = 'pointer';
+$axure.eventManager.click('u100', function(e) {
 
 if (true) {
 
@@ -632,10 +621,10 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u103'] = 'center';u104.tabIndex = 0;
+gv_vAlignTable['u102'] = 'center';u103.tabIndex = 0;
 
-u104.style.cursor = 'pointer';
-$axure.eventManager.click('u104', function(e) {
+u103.style.cursor = 'pointer';
+$axure.eventManager.click('u103', function(e) {
 
 if (true) {
 
@@ -643,10 +632,10 @@ if (true) {
 
 }
 });
-u105.tabIndex = 0;
+u104.tabIndex = 0;
 
-u105.style.cursor = 'pointer';
-$axure.eventManager.click('u105', function(e) {
+u104.style.cursor = 'pointer';
+$axure.eventManager.click('u104', function(e) {
 
 if (true) {
 
@@ -654,10 +643,10 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u107'] = 'center';u108.tabIndex = 0;
+gv_vAlignTable['u106'] = 'center';u107.tabIndex = 0;
 
-u108.style.cursor = 'pointer';
-$axure.eventManager.click('u108', function(e) {
+u107.style.cursor = 'pointer';
+$axure.eventManager.click('u107', function(e) {
 
 if (true) {
 
@@ -671,7 +660,7 @@ if (true) {
 
 }
 });
-u127.tabIndex = 0;
+gv_vAlignTable['u109'] = 'center';u127.tabIndex = 0;
 
 u127.style.cursor = 'pointer';
 $axure.eventManager.click('u127', function(e) {
@@ -739,14 +728,31 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u37'] = 'center';gv_vAlignTable['u39'] = 'center';gv_vAlignTable['u93'] = 'center';gv_vAlignTable['u110'] = 'center';u111.tabIndex = 0;
+gv_vAlignTable['u37'] = 'center';gv_vAlignTable['u39'] = 'center';u110.tabIndex = 0;
+
+u110.style.cursor = 'pointer';
+$axure.eventManager.click('u110', function(e) {
+
+if (true) {
+
+	SetPanelStateNext('u73',false,'none','',500,'none','',500);
+
+}
+});
+u111.tabIndex = 0;
 
 u111.style.cursor = 'pointer';
 $axure.eventManager.click('u111', function(e) {
 
 if (true) {
 
-	SetPanelStateNext('u73',false,'none','',500,'none','',500);
+	SetPanelState('u73', 'pd0u73','none','',500,'none','',500);
+
+	SetPanelVisibility('u73','hidden','none',500);
+
+	SendToBack("u73");
+
+	SetPanelState('u118', 'pd0u118','none','',500,'none','',500);
 
 }
 });
@@ -764,6 +770,14 @@ if (true) {
 	SendToBack("u73");
 
 	SetPanelState('u118', 'pd0u118','none','',500,'none','',500);
+
+	SetPanelState('u118', 'pd2u118','none','',500,'none','',500);
+
+	SetPanelState('u0', 'pd2u0','none','',500,'none','',500);
+
+	SetPanelVisibility('u0','','none',500);
+
+	BringToFront("u0");
 
 }
 });
@@ -1060,10 +1074,10 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u95'] = 'center';u96.tabIndex = 0;
+gv_vAlignTable['u94'] = 'center';u95.tabIndex = 0;
 
-u96.style.cursor = 'pointer';
-$axure.eventManager.click('u96', function(e) {
+u95.style.cursor = 'pointer';
+$axure.eventManager.click('u95', function(e) {
 
 if (true) {
 
@@ -1077,10 +1091,10 @@ if (true) {
 
 }
 });
-u97.tabIndex = 0;
+u96.tabIndex = 0;
 
-u97.style.cursor = 'pointer';
-$axure.eventManager.click('u97', function(e) {
+u96.style.cursor = 'pointer';
+$axure.eventManager.click('u96', function(e) {
 
 if (true) {
 
@@ -1088,10 +1102,10 @@ if (true) {
 
 }
 });
-u98.tabIndex = 0;
+u97.tabIndex = 0;
 
-u98.style.cursor = 'pointer';
-$axure.eventManager.click('u98', function(e) {
+u97.style.cursor = 'pointer';
+$axure.eventManager.click('u97', function(e) {
 
 if (true) {
 
@@ -1099,7 +1113,7 @@ if (true) {
 
 }
 });
-
+gv_vAlignTable['u99'] = 'center';
 $axure.eventManager.click('u60', function(e) {
 
 if (true) {
@@ -1285,32 +1299,7 @@ if (true) {
 
 }
 });
-u77.tabIndex = 0;
-
-u77.style.cursor = 'pointer';
-$axure.eventManager.click('u77', function(e) {
-
-if (true) {
-
-	SetPanelState('u73', 'pd0u73','none','',500,'none','',500);
-
-	SetPanelVisibility('u73','hidden','none',500);
-
-	SendToBack("u73");
-
-	SetPanelState('u118', 'pd0u118','none','',500,'none','',500);
-
-	SetPanelState('u118', 'pd2u118','none','',500,'none','',500);
-
-	SetPanelState('u0', 'pd2u0','none','',500,'none','',500);
-
-	SetPanelVisibility('u0','','none',500);
-
-	BringToFront("u0");
-
-}
-});
-gv_vAlignTable['u79'] = 'center';u150.tabIndex = 0;
+gv_vAlignTable['u78'] = 'center';u150.tabIndex = 0;
 
 u150.style.cursor = 'pointer';
 $axure.eventManager.click('u150', function(e) {
