@@ -750,7 +750,7 @@ div {
     ;
     ;
     text-align: left;;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 13px;
     color:#333333;
     font-style:normal;
@@ -786,9 +786,9 @@ div {
 .u44 {
     position:absolute;
     left:2px;
-    top:10px;
+    top:9px;
     width:49px;
-    height:16px;
+    height:19px;
     ;
     ;
     ;
@@ -1727,7 +1727,7 @@ div {
     ;
     ;
     text-align: left;;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 16px;
     color:#333333;
     font-style:normal;
@@ -1737,24 +1737,6 @@ div {
 }
 
 .u100 {
-    background-image: url('../NAVIGATION_files/u100.png');
-}
-
-.u100 {
-    position:absolute;
-    left:241px;
-    top:123px;
-    width:48px;
-    height:15px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
-}
-
-.u101 {
     position:absolute;
     left:20px;
     top:166px;
@@ -1763,7 +1745,25 @@ div {
     ;
     ;
     text-align: left;;
-    font-family:'Arial';
+    font-family:'Open Sans';
+    font-size: 16px;
+    color:#333333;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u101 {
+    position:absolute;
+    left:20px;
+    top:219px;
+    width:279px;
+    height:37px;
+    ;
+    ;
+    text-align: left;;
+    font-family:'Open Sans';
     font-size: 16px;
     color:#333333;
     font-style:normal;
@@ -1775,13 +1775,13 @@ div {
 .u102 {
     position:absolute;
     left:20px;
-    top:219px;
+    top:272px;
     width:279px;
     height:37px;
     ;
     ;
     text-align: left;;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 16px;
     color:#333333;
     font-style:normal;
@@ -1791,21 +1791,21 @@ div {
 }
 
 .u103 {
+    background-image: url('../NAVIGATION_files/u103.png');
+}
+
+.u103 {
     position:absolute;
-    left:20px;
-    top:272px;
-    width:279px;
-    height:37px;
+    left:241px;
+    top:123px;
+    width:48px;
+    height:15px;
     ;
     ;
-    text-align: left;;
-    font-family:'Arial';
-    font-size: 16px;
-    color:#333333;
-    font-style:normal;
-    font-weight:normal;
-    text-decoration:none;
-    
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
 }
 
 .u104 {
@@ -1986,7 +1986,45 @@ div {
     word-wrap:break-word;
 }
 
-.u114 {
+.u114_normal {
+    background-image: url('../NAVIGATION_files/u112_normal.png');
+}
+
+.u114_container {
+    position:absolute;
+    left:0px;
+    top:422px;
+    width:319px;
+    height:94px;
+}
+
+#u114_img {
+    position:absolute;
+    left:-3px;
+    top:-3px;
+    width:325px;
+    height:100px;
+}
+
+.u115 {
+    background-image: url('../NAVIGATION_files/u115.png');
+}
+
+.u115 {
+    position:absolute;
+    left:2px;
+    top:39px;
+    width:315px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u116 {
     position:absolute;
     left:20px;
     top:111px;
@@ -1995,7 +2033,7 @@ div {
     ;
     ;
     text-align: left;;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 16px;
     color:#333333;
     font-style:normal;
@@ -2004,11 +2042,11 @@ div {
     
 }
 
-.u115_normal {
-    background-image: url('../NAVIGATION_files/u115_normal.png');
+.u117_normal {
+    background-image: url('../NAVIGATION_files/u117_normal.png');
 }
 
-.u115_container {
+.u117_container {
     position:absolute;
     left:270px;
     top:120px;
@@ -2016,7 +2054,7 @@ div {
     height:18px;
 }
 
-#u115_img {
+#u117_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -2024,11 +2062,11 @@ div {
     height:18px;
 }
 
-.u116 {
-    background-image: url('../NAVIGATION_files/u116.png');
+.u118 {
+    background-image: url('../NAVIGATION_files/u118.png');
 }
 
-.u116 {
+.u118 {
     position:absolute;
     left:2px;
     top:1px;
@@ -2042,7 +2080,7 @@ div {
     word-wrap:break-word;
 }
 
-.u117 {
+.u119 {
     position:absolute;
     left:20px;
     top:169px;
@@ -2051,51 +2089,13 @@ div {
     ;
     ;
     ;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 16px;
     color:#000000;
     font-style:normal;
     font-weight:normal;
     text-decoration:none;
     
-}
-
-.u118_normal {
-    background-image: url('../NAVIGATION_files/u112_normal.png');
-}
-
-.u118_container {
-    position:absolute;
-    left:0px;
-    top:422px;
-    width:319px;
-    height:94px;
-}
-
-#u118_img {
-    position:absolute;
-    left:-3px;
-    top:-3px;
-    width:325px;
-    height:100px;
-}
-
-.u119 {
-    background-image: url('../NAVIGATION_files/u119.png');
-}
-
-.u119 {
-    position:absolute;
-    left:2px;
-    top:39px;
-    width:315px;
-    height:16px;
-    ;
-    ;
-    ;
-    font-family:Arial;
-    text-align:left;
-    word-wrap:break-word;
 }
 
 #pd2u73 {
@@ -2276,13 +2276,13 @@ div {
 .u130 {
     position:absolute;
     left:20px;
-    top:205px;
+    top:115px;
     width:278px;
     height:22px;
     ;
     ;
     ;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 16px;
     color:#000000;
     font-style:normal;
@@ -2300,7 +2300,7 @@ div {
     ;
     ;
     ;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 16px;
     color:#000000;
     font-style:normal;
@@ -2312,13 +2312,13 @@ div {
 .u132 {
     position:absolute;
     left:20px;
-    top:115px;
+    top:205px;
     width:278px;
     height:22px;
     ;
     ;
     ;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 16px;
     color:#000000;
     font-style:normal;
@@ -2336,7 +2336,7 @@ div {
     ;
     ;
     text-align: left;;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 14px;
     color:#000000;
     font-style:normal;
@@ -2509,60 +2509,6 @@ div {
 
 .u143 {
     position:absolute;
-    left:20px;
-    top:258px;
-    width:278px;
-    height:22px;
-    ;
-    ;
-    ;
-    font-family:'Arial';
-    font-size: 16px;
-    color:#000000;
-    font-style:normal;
-    font-weight:normal;
-    text-decoration:none;
-    
-}
-
-.u144 {
-    position:absolute;
-    left:20px;
-    top:213px;
-    width:278px;
-    height:22px;
-    ;
-    ;
-    ;
-    font-family:'Arial';
-    font-size: 16px;
-    color:#000000;
-    font-style:normal;
-    font-weight:normal;
-    text-decoration:none;
-    
-}
-
-.u145 {
-    position:absolute;
-    left:20px;
-    top:168px;
-    width:278px;
-    height:22px;
-    ;
-    ;
-    ;
-    font-family:'Arial';
-    font-size: 16px;
-    color:#000000;
-    font-style:normal;
-    font-weight:normal;
-    text-decoration:none;
-    
-}
-
-.u146 {
-    position:absolute;
     left:19px;
     top:112px;
     width:279px;
@@ -2570,7 +2516,7 @@ div {
     ;
     ;
     text-align: left;;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 16px;
     color:#333333;
     font-style:normal;
@@ -2579,11 +2525,11 @@ div {
     
 }
 
-.u147 {
-    background-image: url('../NAVIGATION_files/u147.png');
+.u144 {
+    background-image: url('../NAVIGATION_files/u144.png');
 }
 
-.u147 {
+.u144 {
     position:absolute;
     left:240px;
     top:123px;
@@ -2595,6 +2541,60 @@ div {
     font-family:Arial;
     text-align:left;
     word-wrap:break-word;
+}
+
+.u145 {
+    position:absolute;
+    left:20px;
+    top:168px;
+    width:278px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Open Sans';
+    font-size: 16px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u146 {
+    position:absolute;
+    left:20px;
+    top:213px;
+    width:278px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Open Sans';
+    font-size: 16px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
+}
+
+.u147 {
+    position:absolute;
+    left:20px;
+    top:258px;
+    width:278px;
+    height:22px;
+    ;
+    ;
+    ;
+    font-family:'Open Sans';
+    font-size: 16px;
+    color:#000000;
+    font-style:normal;
+    font-weight:normal;
+    text-decoration:none;
+    
 }
 
 #pd0u73 {
@@ -2722,7 +2722,7 @@ div {
     ;
     ;
     ;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 16px;
     color:#333333;
     font-style:normal;
@@ -3506,7 +3506,7 @@ div {
 }
 
 .u205_normal {
-    background-image: url('../mFooter_files/u258_normal.png');
+    background-image: url('../mFooter_files/u260_normal.png');
 }
 
 .u205_container {
@@ -3526,7 +3526,7 @@ div {
 }
 
 .u206 {
-    background-image: url('../mFooter_files/u259.png');
+    background-image: url('../mFooter_files/u261.png');
 }
 
 .u206 {
@@ -3544,7 +3544,7 @@ div {
 }
 
 .u207_normal {
-    background-image: url('../mFooter_files/u260_normal.png');
+    background-image: url('../mFooter_files/u262_normal.png');
 }
 
 .u207_container {
@@ -3564,7 +3564,7 @@ div {
 }
 
 .u208 {
-    background-image: url('../mFooter_files/u261.png');
+    background-image: url('../mFooter_files/u263.png');
 }
 
 .u208 {
@@ -3582,7 +3582,7 @@ div {
 }
 
 .u209_normal {
-    background-image: url('../mFooter_files/u262_normal.png');
+    background-image: url('../mFooter_files/u264_normal.png');
 }
 
 .u209_container {
@@ -3602,7 +3602,7 @@ div {
 }
 
 .u210 {
-    background-image: url('../mFooter_files/u263.png');
+    background-image: url('../mFooter_files/u265.png');
 }
 
 .u210 {
@@ -3628,7 +3628,7 @@ div {
     ;
     ;
     text-align: left;;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 16px;
     color:#000000;
     font-style:normal;
@@ -3646,7 +3646,7 @@ div {
     ;
     ;
     text-align: left;;
-    font-family:'Arial';
+    font-family:'Open Sans';
     font-size: 16px;
     color:#000000;
     font-style:normal;

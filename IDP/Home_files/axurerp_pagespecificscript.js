@@ -284,7 +284,7 @@ rdo1unmask(e);
 
 }
 });
-gv_vAlignTable['u71'] = 'center';gv_vAlignTable['u100'] = 'top';gv_vAlignTable['u104'] = 'top';gv_vAlignTable['u105'] = 'top';gv_vAlignTable['u106'] = 'top';gv_vAlignTable['u108'] = 'center';u109.tabIndex = 0;
+gv_vAlignTable['u71'] = 'center';gv_vAlignTable['u103'] = 'top';gv_vAlignTable['u104'] = 'top';gv_vAlignTable['u105'] = 'top';gv_vAlignTable['u106'] = 'top';gv_vAlignTable['u108'] = 'center';u109.tabIndex = 0;
 
 u109.style.cursor = 'pointer';
 $axure.eventManager.click('u109', function(e) {
@@ -340,7 +340,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u87'] = 'center';gv_vAlignTable['u89'] = 'center';gv_vAlignTable['u119'] = 'center';gv_vAlignTable['u91'] = 'center';u92.tabIndex = 0;
+gv_vAlignTable['u87'] = 'center';gv_vAlignTable['u89'] = 'center';gv_vAlignTable['u118'] = 'center';gv_vAlignTable['u91'] = 'center';u92.tabIndex = 0;
 
 u92.style.cursor = 'pointer';
 $axure.eventManager.click('u92', function(e) {
@@ -460,7 +460,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u147'] = 'top';document.getElementById('u148_img').tabIndex = 0;
+gv_vAlignTable['u144'] = 'top';document.getElementById('u148_img').tabIndex = 0;
 
 u148.style.cursor = 'pointer';
 $axure.eventManager.click('u148', function(e) {
@@ -1003,7 +1003,7 @@ if (true) {
 
 }
 });
-gv_vAlignTable['u113'] = 'center';gv_vAlignTable['u116'] = 'center';document.getElementById('u21_img').tabIndex = 0;
+gv_vAlignTable['u113'] = 'center';gv_vAlignTable['u115'] = 'center';document.getElementById('u21_img').tabIndex = 0;
 
 u21.style.cursor = 'pointer';
 $axure.eventManager.click('u21', function(e) {
