@@ -1025,3 +1025,5 @@ div {
     word-wrap:break-word;
 }
 
+#main_container select {height:30px;}
+
