@@ -78,7 +78,7 @@ div {
 }
 
 .u3_normal {
-    background-image: url('../header_files/u1_normal.png');
+    background-image: url('../Appliance_Repair_files/u3_normal.png');
 }
 
 .u3_container {
@@ -112,7 +112,7 @@ div {
 }
 
 .u5_normal {
-    background-image: url('../header_files/u3_normal.png');
+    background-image: url('../Appliance_Repair_files/u5_normal.png');
 }
 
 .u5_container {
@@ -146,7 +146,7 @@ div {
 }
 
 .u7_normal {
-    background-image: url('../header_files/u5_normal.png');
+    background-image: url('../Appliance_Repair_files/u7_normal.png');
 }
 
 .u7_container {
@@ -180,7 +180,7 @@ div {
 }
 
 .u10_normal {
-    background-image: url('../footer_files/u10_normal.png');
+    background-image: url('../Appliance_Repair_files/u10_normal.png');
 }
 
 .u10_container {
@@ -214,7 +214,7 @@ div {
 }
 
 .u12_normal {
-    background-image: url('../footer_files/u12_normal.png');
+    background-image: url('../Appliance_Repair_files/u12_normal.png');
 }
 
 .u12_container {
@@ -331,15 +331,19 @@ div {
     
 }
 
+.u21_disabled {
+    background-image: url('../Appliance_Repair_files/Main_CTA_u21_disabled.png');
+}
+
 .u21_normal {
-    background-image: url('../Appliance_Repair_files/u21_normal.png');
+    background-image: url('../Appliance_Repair_files/Main_CTA_u21_normal.png');
 }
 
 .u21_container {
     position:absolute;
-    left:1000px;
-    top:522px;
-    width:70px;
+    left:940px;
+    top:520px;
+    width:160px;
     height:35px;
 }
 
@@ -347,15 +351,15 @@ div {
     position:absolute;
     left:-3px;
     top:-3px;
-    width:76px;
+    width:166px;
     height:41px;
 }
 
 .u22 {
     position:absolute;
-    left:2px;
+    left:10px;
     top:8px;
-    width:66px;
+    width:140px;
     height:19px;
     ;
     ;
@@ -415,10 +419,28 @@ div {
     word-wrap:break-word;
 }
 
-.u26 {
+#u26 {
     position:absolute;
     left:205px;
     top:537px;
+    width:346px;
+    height:25px;
+    overflow:hidden;
+}
+
+#pd0u26 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:346px;
+    height:25px;
+    
+}
+
+.u27 {
+    position:absolute;
+    left:0px;
+    top:0px;
     width:274px;
     height:24px;
     ;
@@ -429,10 +451,10 @@ div {
     word-wrap:break-word;
 }
 
-.u27 {
+.u28 {
     position:absolute;
-    left:479px;
-    top:543px;
+    left:274px;
+    top:6px;
     width:71px;
     height:17px;
     ;
@@ -443,11 +465,11 @@ div {
     word-wrap:break-word;
 }
 
-.u28_normal {
-    background-image: url('../Repair_Offers_files/u46_normal.png');
+.u29_normal {
+    background-image: url('../Appliance_Repair_files/u29_normal.png');
 }
 
-.u28_container {
+.u29_container {
     position:absolute;
     left:178px;
     top:646px;
@@ -455,7 +477,7 @@ div {
     height:392px;
 }
 
-#u28_img {
+#u29_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -463,7 +485,7 @@ div {
     height:392px;
 }
 
-.u29 {
+.u30 {
     position:absolute;
     left:2px;
     top:188px;
@@ -477,7 +499,7 @@ div {
     word-wrap:break-word;
 }
 
-#u30 {
+#u31 {
     position:absolute;
     left:673px;
     top:983px;
@@ -490,7 +512,7 @@ div {
     overflow:hidden;
 }
 
-#u31 {
+#u32 {
     position:absolute;
     left:493px;
     top:1000px;
@@ -503,7 +525,7 @@ div {
     overflow:hidden;
 }
 
-#u33 {
+#u34 {
     position:absolute;
     left:499px;
     top:295px;
@@ -512,7 +534,7 @@ div {
     overflow:hidden;
 }
 
-#pd0u33 {
+#pd0u34 {
     position:absolute;
     left:0px;
     top:0px;
@@ -521,7 +543,7 @@ div {
     
 }
 
-#u34 {
+#u35 {
     position:absolute;
     left:0px;
     top:0px;
@@ -530,7 +552,7 @@ div {
     overflow:hidden;
 }
 
-#pd0u34 {
+#pd0u35 {
     position:absolute;
     left:0px;
     top:0px;
@@ -539,15 +561,15 @@ div {
     
 }
 
-.u35_mouseOver {
-    background-image: url('../Appliance_Repair_files/dryer_button_u35_mouseOver.png');
+.u36_mouseOver {
+    background-image: url('../Appliance_Repair_files/dryer_button_u36_mouseOver.png');
 }
 
-.u35_normal {
-    background-image: url('../Appliance_Repair_files/dryer_button_u35_normal.png');
+.u36_normal {
+    background-image: url('../Appliance_Repair_files/dryer_button_u36_normal.png');
 }
 
-.u35_container {
+.u36_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -555,7 +577,7 @@ div {
     height:195px;
 }
 
-#u35_img {
+#u36_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -563,7 +585,7 @@ div {
     height:195px;
 }
 
-.u36 {
+.u37 {
     position:absolute;
     left:2px;
     top:167px;
@@ -577,15 +599,15 @@ div {
     word-wrap:break-word;
 }
 
-.u37_mouseOver {
-    background-image: url('../Appliance_Repair_files/fridge_button_u37_mouseOver.png');
+.u38_mouseOver {
+    background-image: url('../Appliance_Repair_files/fridge_button_u38_mouseOver.png');
 }
 
-.u37_normal {
-    background-image: url('../Appliance_Repair_files/fridge_button_u37_normal.png');
+.u38_normal {
+    background-image: url('../Appliance_Repair_files/fridge_button_u38_normal.png');
 }
 
-.u37_container {
+.u38_container {
     position:absolute;
     left:159px;
     top:2px;
@@ -593,7 +615,7 @@ div {
     height:195px;
 }
 
-#u37_img {
+#u38_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -601,7 +623,7 @@ div {
     height:195px;
 }
 
-.u38 {
+.u39 {
     position:absolute;
     left:2px;
     top:167px;
@@ -615,15 +637,15 @@ div {
     word-wrap:break-word;
 }
 
-.u39_mouseOver {
-    background-image: url('../Appliance_Repair_files/washer_button_u39_mouseOver.png');
+.u40_mouseOver {
+    background-image: url('../Appliance_Repair_files/washer_button_u40_mouseOver.png');
 }
 
-.u39_normal {
-    background-image: url('../Appliance_Repair_files/washer_button_u39_normal.png');
+.u40_normal {
+    background-image: url('../Appliance_Repair_files/washer_button_u40_normal.png');
 }
 
-.u39_container {
+.u40_container {
     position:absolute;
     left:319px;
     top:0px;
@@ -631,7 +653,7 @@ div {
     height:195px;
 }
 
-#u39_img {
+#u40_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -639,7 +661,7 @@ div {
     height:195px;
 }
 
-.u40 {
+.u41 {
     position:absolute;
     left:2px;
     top:167px;
@@ -653,15 +675,15 @@ div {
     word-wrap:break-word;
 }
 
-.u41_mouseOver {
-    background-image: url('../Appliance_Repair_files/dishwasher_button_u41_mouseOver.png');
+.u42_mouseOver {
+    background-image: url('../Appliance_Repair_files/dishwasher_button_u42_mouseOver.png');
 }
 
-.u41_normal {
-    background-image: url('../Appliance_Repair_files/dishwasher_button_u41_normal.png');
+.u42_normal {
+    background-image: url('../Appliance_Repair_files/dishwasher_button_u42_normal.png');
 }
 
-.u41_container {
+.u42_container {
     position:absolute;
     left:479px;
     top:0px;
@@ -669,7 +691,7 @@ div {
     height:195px;
 }
 
-#u41_img {
+#u42_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -677,7 +699,7 @@ div {
     height:195px;
 }
 
-.u42 {
+.u43 {
     position:absolute;
     left:2px;
     top:167px;
@@ -691,15 +713,15 @@ div {
     word-wrap:break-word;
 }
 
-.u43_mouseOver {
-    background-image: url('../Appliance_Repair_files/range_button_u43_mouseOver.png');
+.u44_mouseOver {
+    background-image: url('../Appliance_Repair_files/range_button_u44_mouseOver.png');
 }
 
-.u43_normal {
-    background-image: url('../Appliance_Repair_files/range_button_u43_normal.png');
+.u44_normal {
+    background-image: url('../Appliance_Repair_files/range_button_u44_normal.png');
 }
 
-.u43_container {
+.u44_container {
     position:absolute;
     left:636px;
     top:0px;
@@ -707,7 +729,7 @@ div {
     height:195px;
 }
 
-#u43_img {
+#u44_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -715,7 +737,7 @@ div {
     height:195px;
 }
 
-.u44 {
+.u45 {
     position:absolute;
     left:2px;
     top:167px;
@@ -729,15 +751,15 @@ div {
     word-wrap:break-word;
 }
 
-.u45_mouseOver {
-    background-image: url('../Appliance_Repair_files/freezer_button_u45_mouseOver.png');
+.u46_mouseOver {
+    background-image: url('../Appliance_Repair_files/freezer_button_u46_mouseOver.png');
 }
 
-.u45_normal {
-    background-image: url('../Appliance_Repair_files/freezer_button_u45_normal.png');
+.u46_normal {
+    background-image: url('../Appliance_Repair_files/freezer_button_u46_normal.png');
 }
 
-.u45_container {
+.u46_container {
     position:absolute;
     left:796px;
     top:0px;
@@ -745,7 +767,7 @@ div {
     height:195px;
 }
 
-#u45_img {
+#u46_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -753,7 +775,7 @@ div {
     height:195px;
 }
 
-.u46 {
+.u47 {
     position:absolute;
     left:2px;
     top:167px;
@@ -767,11 +789,11 @@ div {
     word-wrap:break-word;
 }
 
-.u47_normal {
-    background-image: url('../Appliance_Repair_files/u47_normal.png');
+.u48_normal {
+    background-image: url('../Appliance_Repair_files/u48_normal.png');
 }
 
-.u47_container {
+.u48_container {
     position:absolute;
     left:580px;
     top:0px;
@@ -779,7 +801,7 @@ div {
     height:197px;
 }
 
-#u47_img {
+#u48_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -787,7 +809,7 @@ div {
     height:203px;
 }
 
-.u48 {
+.u49 {
     position:absolute;
     left:2px;
     top:90px;
@@ -801,11 +823,11 @@ div {
     word-wrap:break-word;
 }
 
-.u49_normal {
-    background-image: url('../Appliance_Repair_files/u49_normal.png');
+.u50_normal {
+    background-image: url('../Appliance_Repair_files/u50_normal.png');
 }
 
-.u49_container {
+.u50_container {
     position:absolute;
     left:0px;
     top:0px;
@@ -813,7 +835,7 @@ div {
     height:197px;
 }
 
-#u49_img {
+#u50_img {
     position:absolute;
     left:-3px;
     top:-3px;
@@ -821,7 +843,7 @@ div {
     height:203px;
 }
 
-.u50 {
+.u51 {
     position:absolute;
     left:2px;
     top:90px;
@@ -835,7 +857,7 @@ div {
     word-wrap:break-word;
 }
 
-#u51 {
+#u52 {
     position:absolute;
     left:462px;
     top:364px;
@@ -844,7 +866,7 @@ div {
     overflow:hidden;
 }
 
-#pd1u51 {
+#pd1u52 {
     position:absolute;
     left:0px;
     top:0px;
@@ -853,11 +875,11 @@ div {
     
 }
 
-.u52_normal {
-    background-image: url('../ARC_Buttons_files/u52_normal.png');
+.u53_normal {
+    background-image: url('../Appliance_Repair_files/u53_normal.png');
 }
 
-.u52_container {
+.u53_container {
     position:absolute;
     left:-19px;
     top:-1px;
@@ -865,7 +887,7 @@ div {
     height:146px;
 }
 
-#u52_img {
+#u53_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -873,7 +895,7 @@ div {
     height:146px;
 }
 
-.u53 {
+.u54 {
     position:absolute;
     left:2px;
     top:65px;
@@ -887,7 +909,7 @@ div {
     word-wrap:break-word;
 }
 
-#pd0u51 {
+#pd0u52 {
     position:absolute;
     left:0px;
     top:0px;
@@ -896,11 +918,11 @@ div {
     
 }
 
-.u54_normal {
-    background-image: url('../ARC_Buttons_files/u52_normal.png');
+.u55_normal {
+    background-image: url('../Appliance_Repair_files/u53_normal.png');
 }
 
-.u54_container {
+.u55_container {
     position:absolute;
     left:-19px;
     top:-72px;
@@ -908,7 +930,7 @@ div {
     height:146px;
 }
 
-#u54_img {
+#u55_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -916,7 +938,7 @@ div {
     height:146px;
 }
 
-.u55 {
+.u56 {
     position:absolute;
     left:2px;
     top:65px;
@@ -930,7 +952,7 @@ div {
     word-wrap:break-word;
 }
 
-#u56 {
+#u57 {
     position:absolute;
     left:1100px;
     top:364px;
@@ -939,7 +961,7 @@ div {
     overflow:hidden;
 }
 
-#pd1u56 {
+#pd1u57 {
     position:absolute;
     left:0px;
     top:0px;
@@ -948,11 +970,11 @@ div {
     
 }
 
-.u57_normal {
-    background-image: url('../ARC_Buttons_files/u52_normal.png');
+.u58_normal {
+    background-image: url('../Appliance_Repair_files/u53_normal.png');
 }
 
-.u57_container {
+.u58_container {
     position:absolute;
     left:-119px;
     top:-1px;
@@ -960,7 +982,7 @@ div {
     height:146px;
 }
 
-#u57_img {
+#u58_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -968,7 +990,7 @@ div {
     height:146px;
 }
 
-.u58 {
+.u59 {
     position:absolute;
     left:2px;
     top:65px;
@@ -982,7 +1004,7 @@ div {
     word-wrap:break-word;
 }
 
-#pd0u56 {
+#pd0u57 {
     position:absolute;
     left:0px;
     top:0px;
@@ -991,11 +1013,11 @@ div {
     
 }
 
-.u59_normal {
-    background-image: url('../ARC_Buttons_files/u52_normal.png');
+.u60_normal {
+    background-image: url('../Appliance_Repair_files/u53_normal.png');
 }
 
-.u59_container {
+.u60_container {
     position:absolute;
     left:-119px;
     top:-72px;
@@ -1003,7 +1025,7 @@ div {
     height:146px;
 }
 
-#u59_img {
+#u60_img {
     position:absolute;
     left:0px;
     top:0px;
@@ -1011,7 +1033,7 @@ div {
     height:146px;
 }
 
-.u60 {
+.u61 {
     position:absolute;
     left:2px;
     top:65px;
