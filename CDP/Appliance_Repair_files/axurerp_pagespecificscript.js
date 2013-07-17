@@ -272,6 +272,9 @@ if (true) {
 
 SetWidgetFormText('u24', GetWidgetText('u35'));
 
+	var obj1 = document.getElementById("u24");
+    obj1.focus();
+
 }
 });
 gv_vAlignTable['u36'] = 'bottom';document.getElementById('u37_img').tabIndex = 0;
@@ -283,6 +286,9 @@ $axure.eventManager.click('u37', function(e) {
 if (true) {
 
 SetWidgetFormText('u24', GetWidgetText('u37'));
+
+	var obj1 = document.getElementById("u24");
+    obj1.focus();
 
 }
 });
@@ -296,6 +302,9 @@ if (true) {
 
 SetWidgetFormText('u24', GetWidgetText('u39'));
 
+	var obj1 = document.getElementById("u24");
+    obj1.focus();
+
 }
 });
 gv_vAlignTable['u0'] = 'top';gv_vAlignTable['u2'] = 'center';gv_vAlignTable['u4'] = 'center';gv_vAlignTable['u6'] = 'center';gv_vAlignTable['u8'] = 'center';gv_vAlignTable['u42'] = 'bottom';gv_vAlignTable['u40'] = 'bottom';document.getElementById('u41_img').tabIndex = 0;
@@ -307,6 +316,9 @@ $axure.eventManager.click('u41', function(e) {
 if (true) {
 
 SetWidgetFormText('u24', GetWidgetText('u41'));
+
+	var obj1 = document.getElementById("u24");
+    obj1.focus();
 
 }
 });
@@ -320,6 +332,9 @@ if (true) {
 
 SetWidgetFormText('u24', GetWidgetText('u45'));
 
+	var obj1 = document.getElementById("u24");
+    obj1.focus();
+
 }
 });
 document.getElementById('u43_img').tabIndex = 0;
@@ -331,6 +346,9 @@ $axure.eventManager.click('u43', function(e) {
 if (true) {
 
 SetWidgetFormText('u24', GetWidgetText('u43'));
+
+	var obj1 = document.getElementById("u24");
+    obj1.focus();
 
 }
 });
