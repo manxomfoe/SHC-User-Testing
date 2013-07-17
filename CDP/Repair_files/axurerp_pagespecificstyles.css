@@ -1,0 +1,812 @@
+﻿body {
+    margin: 0px;
+    text-align: center;
+}
+
+div {
+    background-repeat: no-repeat;
+}
+
+.raw_image {
+    width: 100%;
+    height: 100%;
+}
+
+.preload {
+    display: none;
+}
+#main_container {
+    position: relative;
+    left: -0px;
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.form_sketch {
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.u0 {
+    position:absolute;
+    left:214px;
+    top:883px;
+    width:235px;
+    height:19px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u1_normal {
+    background-image: url('../header_files/u1_normal.png');
+}
+
+.u1_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1300px;
+    height:146px;
+}
+
+#u1_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1300px;
+    height:146px;
+}
+
+.u2 {
+    position:absolute;
+    left:2px;
+    top:65px;
+    width:1296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u3_normal {
+    background-image: url('../header_files/u3_normal.png');
+}
+
+.u3_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1300px;
+    height:146px;
+}
+
+#u3_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1300px;
+    height:146px;
+}
+
+.u4 {
+    position:absolute;
+    left:2px;
+    top:65px;
+    width:1296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u5_normal {
+    background-image: url('../header_files/u5_normal.png');
+}
+
+.u5_container {
+    position:absolute;
+    left:139px;
+    top:0px;
+    width:1026px;
+    height:146px;
+}
+
+#u5_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1026px;
+    height:146px;
+}
+
+.u6 {
+    position:absolute;
+    left:2px;
+    top:65px;
+    width:1022px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u8_normal {
+    background-image: url('../Repair_files/u8_normal.png');
+}
+
+.u8_container {
+    position:absolute;
+    left:0px;
+    top:145px;
+    width:1300px;
+    height:463px;
+}
+
+#u8_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1300px;
+    height:463px;
+}
+
+.u9 {
+    position:absolute;
+    left:2px;
+    top:224px;
+    width:1296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u10_normal {
+    background-image: url('../footer_files/u10_normal.png');
+}
+
+.u10_container {
+    position:absolute;
+    left:0px;
+    top:1472px;
+    width:1300px;
+    height:431px;
+}
+
+#u10_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1300px;
+    height:431px;
+}
+
+.u11 {
+    position:absolute;
+    left:2px;
+    top:208px;
+    width:1296px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u12_normal {
+    background-image: url('../footer_files/u12_normal.png');
+}
+
+.u12_container {
+    position:absolute;
+    left:156px;
+    top:1472px;
+    width:980px;
+    height:431px;
+}
+
+#u12_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:980px;
+    height:431px;
+}
+
+.u13 {
+    position:absolute;
+    left:2px;
+    top:208px;
+    width:976px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u14 {
+    position:absolute;
+    left:175px;
+    top:1486px;
+    width:280px;
+    height:17px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u17 {
+    position:absolute;
+    left:204px;
+    top:609px;
+    width:905px;
+    height:295px;
+    overflow:hidden;
+}
+
+#pd0u17 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:905px;
+    height:295px;
+    
+}
+
+#u18 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1517px;
+    height:295px;
+    overflow:hidden;
+}
+
+#pd0u18 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:1517px;
+    height:295px;
+    
+}
+
+.u19_normal {
+    background-image: url('../Repair_Category_Carousel_files/u19_normal.png');
+}
+
+.u19_container {
+    position:absolute;
+    left:915px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+#u19_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+.u20 {
+    position:absolute;
+    left:2px;
+    top:139px;
+    width:290px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u21_mouseOver {
+    background-image: url('../Repair_Category_Carousel_files/u21_mouseOver.png');
+}
+
+.u21_normal {
+    background-image: url('../Repair_Category_Carousel_files/u21_normal.png');
+}
+
+.u21_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+#u21_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+.u22 {
+    position:absolute;
+    left:2px;
+    top:139px;
+    width:290px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u23_mouseOver {
+    background-image: url('../Repair_Category_Carousel_files/u23_mouseOver.png');
+}
+
+.u23_normal {
+    background-image: url('../Repair_Category_Carousel_files/u23_normal.png');
+}
+
+.u23_container {
+    position:absolute;
+    left:305px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+#u23_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+.u24 {
+    position:absolute;
+    left:2px;
+    top:139px;
+    width:290px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u25_mouseOver {
+    background-image: url('../Repair_Category_Carousel_files/u25_mouseOver.png');
+}
+
+.u25_normal {
+    background-image: url('../Repair_Category_Carousel_files/u25_normal.png');
+}
+
+.u25_container {
+    position:absolute;
+    left:610px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+#u25_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+.u26 {
+    position:absolute;
+    left:2px;
+    top:139px;
+    width:290px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u27_mouseOver {
+    background-image: url('../Repair_Category_Carousel_files/u19_normal.png');
+}
+
+.u27_normal {
+    background-image: url('../Repair_Category_Carousel_files/u27_normal.png');
+}
+
+.u27_container {
+    position:absolute;
+    left:915px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+#u27_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+.u28 {
+    position:absolute;
+    left:2px;
+    top:139px;
+    width:290px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u29_mouseOver {
+    background-image: url('../Repair_Category_Carousel_files/u29_mouseOver.png');
+}
+
+.u29_normal {
+    background-image: url('../Repair_Category_Carousel_files/u29_normal.png');
+}
+
+.u29_container {
+    position:absolute;
+    left:1219px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+#u29_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:294px;
+    height:294px;
+}
+
+.u30 {
+    position:absolute;
+    left:2px;
+    top:139px;
+    width:290px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u32 {
+    position:absolute;
+    left:180px;
+    top:474px;
+    width:144px;
+    height:34px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u33 {
+    position:absolute;
+    left:516px;
+    top:474px;
+    width:129px;
+    height:34px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u34 {
+    position:absolute;
+    left:850px;
+    top:474px;
+    width:168px;
+    height:34px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u35 {
+    position:absolute;
+    left:140px;
+    top:699px;
+    width:109px;
+    height:121px;
+    overflow:hidden;
+}
+
+#pd1u35 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:109px;
+    height:121px;
+    
+}
+
+.u36_normal {
+    background-image: url('../RCC_Buttons_files/u36_normal.png');
+}
+
+.u36_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:108px;
+    height:120px;
+}
+
+#u36_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:108px;
+    height:120px;
+}
+
+.u37 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u35 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:109px;
+    height:121px;
+    
+}
+
+.u38_normal {
+    background-image: url('../RCC_Buttons_files/u38_normal.png');
+}
+
+.u38_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:108px;
+    height:120px;
+}
+
+#u38_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:108px;
+    height:120px;
+}
+
+.u39 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:104px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u40 {
+    position:absolute;
+    left:1061px;
+    top:699px;
+    width:110px;
+    height:121px;
+    overflow:hidden;
+}
+
+#pd1u40 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:110px;
+    height:121px;
+    
+}
+
+.u41_normal {
+    background-image: url('../RCC_Buttons_files/u41_normal.png');
+}
+
+.u41_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:109px;
+    height:120px;
+}
+
+#u41_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:109px;
+    height:120px;
+}
+
+.u42 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:105px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#pd0u40 {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:110px;
+    height:121px;
+    
+}
+
+.u43_normal {
+    background-image: url('../RCC_Buttons_files/u43_normal.png');
+}
+
+.u43_container {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:109px;
+    height:120px;
+}
+
+#u43_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:109px;
+    height:120px;
+}
+
+.u44 {
+    position:absolute;
+    left:2px;
+    top:52px;
+    width:105px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+.u46_normal {
+    background-image: url('../Repair_Offers_files/u46_normal.png');
+}
+
+.u46_container {
+    position:absolute;
+    left:180px;
+    top:987px;
+    width:952px;
+    height:392px;
+}
+
+#u46_img {
+    position:absolute;
+    left:0px;
+    top:0px;
+    width:952px;
+    height:392px;
+}
+
+.u47 {
+    position:absolute;
+    left:2px;
+    top:188px;
+    width:948px;
+    height:16px;
+    ;
+    ;
+    ;
+    font-family:Arial;
+    text-align:left;
+    word-wrap:break-word;
+}
+
+#u48 {
+    position:absolute;
+    left:675px;
+    top:1324px;
+    width:109px;
+    height:34px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
+#u49 {
+    position:absolute;
+    left:495px;
+    top:1341px;
+    width:154px;
+    height:34px;
+    ;
+    ;
+    ;
+    background-image: url('../resources/images/transparent.gif');
+    overflow:hidden;
+}
+
