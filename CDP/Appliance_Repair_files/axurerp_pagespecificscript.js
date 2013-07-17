@@ -68,6 +68,104 @@ if (true) {
 }
 
 }
+
+var products = [
+"Free-standing Window Air Conditioner (over 11,500 BTU)",
+"Installed Window Air Conditioner",
+"Camcorder",
+"Trash Compactor",
+"Cooktop",
+"Dehumidifier",
+"Portable Humidifier",
+"Whole House Humidifier",
+"Dishwasher",
+"Garbage Disposal",
+"Freezer",
+"Home Theater Audio System",
+"DVD Player",
+"VCR",
+"Freestanding Ice Maker",
+"Chain Saw",
+"Chipper or Shredder",
+"Edger",
+"Leaf Blower",
+"Logsplitter",
+"Tiller",
+"Electric Dryer",
+"Gas Dryer",
+"Stacked Laundry Unit",
+"Front Load Washer",
+"Top Load Washer",
+"Mounted Microwave with Hood",
+"Mounted Microwave",
+"Microwave",
+"Double Oven",
+"Single Oven",
+"Pressure Washer",
+"Range",
+"Range Hood",
+"Top Freezer Refrigerator",
+"Bottom Freezer Refrigerator",
+"Side-by-Side Refrigerator",
+"Riding Mower or Garden Tractor",
+"Sewing Machine",
+"Snowblower over 9 HP",
+"LCD TV",
+"Plasma TV",
+"Projection TV",
+"DLP TV",
+"LCD Projection TV",
+"Small Tube Television (under 32in)",
+"Medium Tube Television (over 32in)",
+"TV-DVD Combo",
+"TV-VCR Combo",
+"Cannister Vacuum",
+"Water Heater",
+"Grill",
+"Sony Digital Camera",
+"Garage Door Opener",
+"Walk Behind Mower",
+"Elliptical Machine",
+"Weight System",
+"Stationary Bike",
+"Stepper",
+"Treadmill",
+"Free-standing Window Air Conditioner (under 11, 000 BTU)",
+"Counter-top Microwave",
+"Panasonic LCD TV  (under 37in)",
+"LCD TV  (under 32in)",
+"Snowblower (under 9 HP)",
+"Upright Vacuum",
+"Boiler",
+"Central Air",
+"Furnace",
+"Heat Pump",
+"Dehumidifier",
+"Window Air Conditioner Unit",
+"Washer",
+"Wide Deck Lawn Mower"
+];
+
+$(document).ready(function() {
+  // Handler for .ready() called.
+
+  	var options = {};
+	options["source"] = products;
+	options["minLength"] = 0;
+	options["items"] = 6;
+
+  	var $input = $("input[data-label=ApplianceProductField]");
+		// set up the type-ahead menu / field
+	$input.typeahead(options);      
+	$input.on('focus', $input.typeahead.bind($input, 'lookup'));
+
+  	console.log("blerg:" + $input);
+
+  	$input.height(32);
+
+});
+
+
 gv_vAlignTable['u50'] = 'center';gv_vAlignTable['u53'] = 'center';document.getElementById('u54_img').tabIndex = 0;
 
 u54.style.cursor = 'pointer';
