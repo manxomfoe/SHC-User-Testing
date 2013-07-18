@@ -78,7 +78,7 @@ div {
 }
 
 .u3_normal {
-    background-image: url('../Appliance_Repair_files/u3_normal.png');
+    background-image: url('../header_files/u1_normal.png');
 }
 
 .u3_container {
@@ -112,7 +112,7 @@ div {
 }
 
 .u5_normal {
-    background-image: url('../Appliance_Repair_files/u5_normal.png');
+    background-image: url('../header_files/u3_normal.png');
 }
 
 .u5_container {
@@ -146,7 +146,7 @@ div {
 }
 
 .u7_normal {
-    background-image: url('../Appliance_Repair_files/u7_normal.png');
+    background-image: url('../header_files/u5_normal.png');
 }
 
 .u7_container {
@@ -180,7 +180,7 @@ div {
 }
 
 .u10_normal {
-    background-image: url('../Appliance_Repair_files/u10_normal.png');
+    background-image: url('../footer_files/u10_normal.png');
 }
 
 .u10_container {
@@ -214,7 +214,7 @@ div {
 }
 
 .u12_normal {
-    background-image: url('../Appliance_Repair_files/u12_normal.png');
+    background-image: url('../footer_files/u12_normal.png');
 }
 
 .u12_container {
@@ -441,7 +441,7 @@ div {
     position:absolute;
     left:0px;
     top:0px;
-    width:274px;
+    width:284px;
     height:24px;
     ;
     ;
@@ -453,7 +453,7 @@ div {
 
 .u28 {
     position:absolute;
-    left:274px;
+    left:284px;
     top:6px;
     width:71px;
     height:17px;
@@ -466,7 +466,7 @@ div {
 }
 
 .u29_normal {
-    background-image: url('../Appliance_Repair_files/u29_normal.png');
+    background-image: url('../Repair_Offers_files/u46_normal.png');
 }
 
 .u29_container {
@@ -876,7 +876,7 @@ div {
 }
 
 .u53_normal {
-    background-image: url('../Appliance_Repair_files/u53_normal.png');
+    background-image: url('../ARC_Buttons_files/u53_normal.png');
 }
 
 .u53_container {
@@ -919,7 +919,7 @@ div {
 }
 
 .u55_normal {
-    background-image: url('../Appliance_Repair_files/u53_normal.png');
+    background-image: url('../ARC_Buttons_files/u53_normal.png');
 }
 
 .u55_container {
@@ -971,7 +971,7 @@ div {
 }
 
 .u58_normal {
-    background-image: url('../Appliance_Repair_files/u53_normal.png');
+    background-image: url('../ARC_Buttons_files/u53_normal.png');
 }
 
 .u58_container {
@@ -1014,7 +1014,7 @@ div {
 }
 
 .u60_normal {
-    background-image: url('../Appliance_Repair_files/u53_normal.png');
+    background-image: url('../ARC_Buttons_files/u53_normal.png');
 }
 
 .u60_container {
