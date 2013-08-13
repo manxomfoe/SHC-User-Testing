@@ -9,6 +9,16 @@
 div {
     background-repeat: no-repeat;
 }
+#main_container select {
+  height: 30px;
+  line-height: 30px;
+
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+
+  font-family:'Open Sans';
+  font-size: 14px;
+}
 
 .raw_image {
     width: 100%;
